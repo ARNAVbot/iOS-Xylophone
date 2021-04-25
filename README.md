@@ -23,6 +23,7 @@ You will be making your first musical instrument! Music apps are so popular on t
 * Error handling in Swift.
 * Code refactoring.
 * Basic debugging.
+* Access sound folder inside a controller
 
 ## Replacement Code
 
